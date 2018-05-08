@@ -1,0 +1,2 @@
+D:\new-sait\sait\obj\x86\Debug\sait.vbprojResolveAssemblyReference.cache
+D:\new-sait\sait\obj\x86\Debug\sait.vbproj.CoreCompileInputs.cache
